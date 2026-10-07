@@ -1,0 +1,25 @@
+{
+  "name": "EASA66 Quiz Multi-Licence",
+  "short_name": "EASA66 Quiz",
+  "description": "Cross-platform EASA Part-66 multi-licence study, quiz, review and exam simulation app.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071a35",
+  "theme_color": "#071a35",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
