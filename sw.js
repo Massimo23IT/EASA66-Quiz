@@ -1,4 +1,4 @@
-const CACHE='easa66-v2.5-study-intelligence';
+const CACHE='easa66-v2.5.1-install';
 const CORE=['./','./index.html','./app.css','./app.js','./questions.json','./manifest.webmanifest','./pilot.png','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install',event=>{
