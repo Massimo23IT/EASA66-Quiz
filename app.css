@@ -12,3 +12,6 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%}body{overscroll-behavio
 html{-webkit-text-size-adjust:100%;text-size-adjust:100%}body{overscroll-behavior-y:none}button,.card,.module{touch-action:manipulation} @media(max-width:360px){.stats3{gap:6px}.statCard{padding:10px 4px}.licGrid{grid-template-columns:1fr}.heroText b{font-size:1.05rem}} @media(min-width:768px){main,#app{max-width:760px;margin:auto}.licGrid{grid-template-columns:repeat(2,minmax(0,1fr))}} @media(orientation:landscape) and (max-height:520px){.hero img{max-height:120px}.bottomNav{padding-bottom:max(6px,env(safe-area-inset-bottom))}}
 
 .scoreIcon{font-size:60px}.correctText{color:var(--green);margin-top:5px}.fullWidth{width:100%}.loadError{color:white;padding:20px}
+
+/* v2.4.6 hero framing */
+.hero img{object-position:center 62%;}
