@@ -14,4 +14,4 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%}body{overscroll-behavio
 .scoreIcon{font-size:60px}.correctText{color:var(--green);margin-top:5px}.fullWidth{width:100%}.loadError{color:white;padding:20px}
 
 /* v2.4.6 hero framing */
-.hero img{object-position:center 62%;}
+.hero img{object-position:center 28%;}
