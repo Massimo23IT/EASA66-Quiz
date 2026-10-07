@@ -1,4 +1,4 @@
-const CACHE='easa66-v2.4.6-network-first';
+const CACHE='easa66-v2.4.7-qafix';
 const CORE=['./','./index.html','./app.css','./app.js','./questions.json','./manifest.webmanifest','./pilot.png','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install',event=>{
